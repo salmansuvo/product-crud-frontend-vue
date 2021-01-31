@@ -1,4 +1,4 @@
-# vue-api
+# Product Crud Frontend Vue
 
 ## Project setup
 ```
